@@ -2,7 +2,7 @@
 <img src="https://github.com/DylanHalstead/SleepLogger/assets/70990184/ad3c7c4b-76d8-47c9-ae0a-6a5c58331f4f" width=100>
 
 ## Overview
-SleepLogger is a simple Android application designed to help users track and analyze their sleep patterns. With SleepLogger, users can log their sleep duration, sleep quality, and exercise time. The app stores this information locally using SQLite and provides insightful charts using AnyChart to visualize sleeping habits over time.
+SleepLogger is a simple Android application designed to help users track and analyze their sleep patterns. With SleepLogger, users can log their sleep duration, sleep quality, and exercise time. Sleep Logger makes it easy to analyze by including visualizations of the user's sleeping patterns. The app stores this information locally using SQLite and provides insightful charts using AnyChart to visualize sleeping habits over time.
 
 **View All Logs on the Intuitive Home Screen**
 
